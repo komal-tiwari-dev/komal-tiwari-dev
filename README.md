@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Komal Tiwari 👋 I'm a 🚀 India Full Stack Developer 🚀 I ❤️ Programming ❤️">
+  <img src="" alt="Hi, I'm Komal Tiwari 👋 I'm a 🚀 India Full Stack Developer 🚀 I ❤️ Programming ❤️">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komal-tiwari-dev&label=Profile%20views&color=0e75b6&style=flat" alt="komal-tiwari-dev" /> </p>
