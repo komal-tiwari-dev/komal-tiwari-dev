@@ -1,13 +1,13 @@
 <h2 align="left">
- <abc display="flex" justify-content="space-between" >
+ <div display="flex" justify-content="space-between" >
   <div>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Komal Tiwari, Full Stack Web Developer :computer:<br>
    </div>
-  <div align="right">
+  <div>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
    </div>
- </abc>
+ </div>
 </h2> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komal-tiwari-dev&label=Profile%20views&color=0e75b6&style=flat" alt="komal-tiwari-dev" /> </p>
