@@ -4,9 +4,6 @@
   <div style="display: flex; align-items: flex-start;">
     <h2><br>Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px"><br> I'm Komal Tiwari, Full Stack Web Developer :computer:</h2>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-    <p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
-</p>
   </div>
 </div>
 
@@ -52,6 +49,6 @@
   
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)<img align="center" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)<img align="center" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" /><img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
 
 [![](https://visitcount.itsvg.in/api?id=komal-tiwari-dev&icon=0&color=0)](https://visitcount.itsvg.in)
