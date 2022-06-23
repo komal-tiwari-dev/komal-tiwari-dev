@@ -42,13 +42,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=komal-tiwari-dev&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=komal-tiwari-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komal-tiwari-dev&show_icons=true&locale=en&layout=compact" alt="komal-tiwari-dev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=komal-tiwari-dev&show_icons=true&locale=en" alt="komal-tiwari-dev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komal-tiwari-dev&" alt="komal-tiwari-dev" /></p>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
