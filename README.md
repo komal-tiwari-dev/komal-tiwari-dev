@@ -19,7 +19,7 @@
 # 🏆 Github Trophy:
 
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=komal-tiwari-dev&theme=nord&no-frame=true&margin-w=10&column=7" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=komal-tiwari-dev&theme=radical&no-frame=true&margin-w=10&column=7" /> </p>
 
 
 
@@ -69,6 +69,6 @@
   
 # ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)                                                                                                           <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)                                                                                                           <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="300" height="300" />
 
 
