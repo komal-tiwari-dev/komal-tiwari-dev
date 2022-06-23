@@ -1,9 +1,11 @@
-<table border="0px">
-  <tr border="0px">
-    <td valign="top" border="0px"><h2><br>Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></br> I'm Komal Tiwari, Full Stack Web Developer :computer:</h2></td>
-    <td valign="top" border="0px"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"></td>
-  </tr>
-</table>
+
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <h2><br>Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></br> I'm Komal Tiwari, Full Stack Web Developer :computer:</h2>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  </div>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komal-tiwari-dev&label=Profile%20views&color=0e75b6&style=flat" alt="komal-tiwari-dev" /> </p>
 
