@@ -1,9 +1,6 @@
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
 
-# Hi  👋 <h3 align="center"> 
-  Visitor count <br>
-  <img src="https://profile-counter.glitch.me/rshukla12/count.svg" />
-</h3> [![](https://visitcount.itsvg.in/api?id=komal-tiwari-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+# Hi  👋 [![](https://visitcount.itsvg.in/api?id=komal-tiwari-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 - :school: I'm [Komal Tiwari](https://github.com/komal-tiwari-dev), Full Stack Web Developer From **India**, have pursued Bsc(Computer Science).
 - 🔭 I’m currently working on  **Frontend Development, Backend Development And Self Development**
 - 😐 I have a **love/hate** relationship with **Programming**
@@ -36,6 +33,11 @@
 <a href="https://www.hackerrank.com/atulzv1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="atulzv1999" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/atulzv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atulzv/" height="30" width="40" /></a>
 </p>
+
+<h3 align="center"> 
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/rshukla12/count.svg" />
+</h3>
 
 
 
