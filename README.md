@@ -1,7 +1,7 @@
 <table border="0px">
   <tr border="0px">
-    <td valign="top"><h1><br>Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></br> I'm Komal Tiwari, Full Stack Web Developer :computer:</h1></td>
-    <td valign="top"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"></td>
+    <td valign="top" border="0px"><h2><br>Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></br> I'm Komal Tiwari, Full Stack Web Developer :computer:</h2></td>
+    <td valign="top" border="0px"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"></td>
   </tr>
 </table>
 
