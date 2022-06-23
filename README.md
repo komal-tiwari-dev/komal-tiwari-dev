@@ -1,6 +1,6 @@
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
 
-# Hi  👋 [![](https://visitcount.itsvg.in/api?id=komal-tiwari-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+# Hi  👋 
 - :school: I'm [Komal Tiwari](https://github.com/komal-tiwari-dev), Full Stack Web Developer From **India**, have pursued Bsc(Computer Science).
 - 🔭 I’m currently working on  **Frontend Development, Backend Development And Self Development**
 - 😐 I have a **love/hate** relationship with **Programming**
@@ -26,7 +26,7 @@
 # 🤝 Connect with me:
 
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/komal-tiwari-240733156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komal-tiwari-240733156" height="30" width="40" /></a>
 <a href="https://instagram.com/atul_1610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atul_1610" height="30" width="40" /></a>
 <a href="https://medium.com/@atulzv1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@atulzv1999" height="30" width="40" /></a>
