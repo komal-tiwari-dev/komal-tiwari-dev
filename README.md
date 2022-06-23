@@ -1,6 +1,6 @@
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
 
-### Hi  👋
+# Hi  👋
 - :school: I'm [Komal Tiwari](https://github.com/komal-tiwari-dev), Full Stack Web Developer From **India**, have pursued Bsc(Computer Science).
 - 🔭 I’m currently working on  **Frontend Development, Backend Development And Self Development**
 - :neutral_face: I have a **love/hate** relationship with **Programming**
@@ -9,34 +9,20 @@
 - 💬 Ask me about anything related **Full Stack Web Developent, I am happy to help**
 - 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
 - :bulb: Occasionaly I do participate in **Hackathons**
-<-- - 🌐 Visit my [porfolio website]("Portfolio Link") for complete background and contact.-->
+- 📝 I regularly write articles on [https://medium.com/@atulzv1999](https://medium.com/@atulzv1999)
+- 👨‍💻 All of my projects are available at [https://github.com/komal-tiwari-dev?tab=repositories](https://github.com/komal-tiwari-dev?tab=repositories)
+- 📫 How to reach me **atulzv1999@gmail.com**
+- ⚡ Fun fact **The fact is not so funny**
+
+
+<-- - 🌐 Visit my [porfolio website]("Portfolio Link") for complete background and contact. -->
 <!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
 <!-- 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-  <div style="display: flex; align-items: flex-start;">
-    <h2><br>Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px" height="100px"><br> I'm Komal Tiwari, Full Stack Web Developer :computer:</h2>
-    
-  </div>
-</div> -->
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komal-tiwari-dev&label=Profile%20views&color=0e75b6&style=flat" alt="komal-tiwari-dev" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=komal-tiwari-dev" alt="komal-tiwari-dev" /></a> </p>
-
-# 👨 About Me:
-
-- 🌱 I’m currently learning **ReactJs, Redux.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/komal-tiwari-dev?tab=repositories](https://github.com/komal-tiwari-dev?tab=repositories)
-
-- 📝 I regularly write articles on [https://medium.com/@atulzv1999](https://medium.com/@atulzv1999)
-
-- 💬 Ask me about **JavaScript,ReactJs.**
-
-- 📫 How to reach me **atulzv1999@gmail.com**
-
-- ⚡ Fun fact **The fact is not so funny**
 
 
 # 🤝 Connect with me:
