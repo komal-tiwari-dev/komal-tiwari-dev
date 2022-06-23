@@ -13,12 +13,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/komal-tiwari-dev?tab=repositories](https://github.com/komal-tiwari-dev?tab=repositories)
 - 📫 How to reach me **atulzv1999@gmail.com**
 - ⚡ Fun fact **The fact is not so funny**
-
-
-<-- - 🌐 Visit my [porfolio website]("Portfolio Link") for complete background and contact. -->
-<!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
-<!-- 
-
+<!-- - 🌐 Visit my [porfolio website]("Portfolio Link") for complete background and contact. -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komal-tiwari-dev&label=Profile%20views&color=0e75b6&style=flat" alt="komal-tiwari-dev" /> </p>
 
