@@ -34,9 +34,10 @@
 <a href="https://www.leetcode.com/atulzv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atulzv/" height="30" width="40" /></a>
 </p>
 
-<h3 align="center"> 
-  Visitor count <br>
-  <img src="https://profile-counter.glitch.me/rshukla12/count.svg" />
+
+  # 🚥 Visitor count:
+  <h3 align="center"> 
+  <img src="https://profile-counter.glitch.me/komal-tiwari-dev/count.svg" />
 </h3>
 
 
