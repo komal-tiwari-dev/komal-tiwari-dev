@@ -3,7 +3,7 @@
 <div align="left">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
   <div style="display: flex; align-items: flex-start;">
-    <h2><br>Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="1px"><br> I'm Komal Tiwari, Full Stack Web Developer :computer:</h2>
+    <h2><br>Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px" height="10px"><br> I'm Komal Tiwari, Full Stack Web Developer :computer:</h2>
     
   </div>
 </div>
