@@ -1,6 +1,6 @@
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
 
-# Hi  👋<p align="left"> <img src="https://komarev.com/ghpvc/?username=komal-tiwari-dev&label=Profile%20views&color=0e75b6&style=flat" alt="komal-tiwari-dev" /> </p>
+# Hi  👋 ![](https://visitcount.itsvg.in/api?id=komal-tiwari-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 - :school: I'm [Komal Tiwari](https://github.com/komal-tiwari-dev), Full Stack Web Developer From **India**, have pursued Bsc(Computer Science).
 - 🔭 I’m currently working on  **Frontend Development, Backend Development And Self Development**
 - :neutral_face: I have a **love/hate** relationship with **Programming**
@@ -54,6 +54,6 @@
   
 # ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)     <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
 
 
