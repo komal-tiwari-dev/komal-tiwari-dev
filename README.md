@@ -24,7 +24,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=komal-tiwari-dev" alt="komal-tiwari-dev" /></a> </p>
 
-
 # 🤝 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/komal-tiwari-240733156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komal-tiwari-240733156" height="30" width="40" /></a>
@@ -33,6 +32,7 @@
 <a href="https://www.hackerrank.com/atulzv1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="atulzv1999" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/atulzv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atulzv/" height="30" width="40" /></a>
 </p>
+
 <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
 
 # 💻 Tech Stack:
