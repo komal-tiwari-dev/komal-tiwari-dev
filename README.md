@@ -9,8 +9,8 @@
 - 💬 Ask me about anything related **MERN Developent, I am happy to help**
 - 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
 - 💡 Occasionaly I do participate in **Hackathons**
-- 📝 I regularly write articles on [https://medium.com/@atulzv1999](https://medium.com/@atulzv1999)
-- 👨‍💻 All of my projects are available at [https://github.com/komal-tiwari-dev?tab=repositories](https://github.com/komal-tiwari-dev?tab=repositories)
+- 📝 I occasionaly write articles on [medium](https://medium.com/@atulzv1999)
+- 👨‍💻 All of my projects are available at [github repo](https://github.com/komal-tiwari-dev?tab=repositories)
 - 📫 How to reach me **atulzv1999@gmail.com**
 - ⚡ Fun fact **The fact is not so funny**
 <!-- - 🌐 Visit my [porfolio website]("Portfolio Link") for complete background and contact. -->
@@ -19,7 +19,7 @@
 # 🏆 Github Trophy:
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=komal-tiwari-dev" alt="komal-tiwari-dev" /></a> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=komal-tiwari-dev&theme=nord&no-frame=true&margin-w=10&column=7" /> </p>
 
 
 
