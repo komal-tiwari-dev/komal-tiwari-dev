@@ -1,6 +1,9 @@
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
 
-# Hi  👋 [![](https://visitcount.itsvg.in/api?id=komal-tiwari-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+# Hi  👋 <h3 align="center"> 
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/rshukla12/count.svg" />
+</h3> [![](https://visitcount.itsvg.in/api?id=komal-tiwari-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 - :school: I'm [Komal Tiwari](https://github.com/komal-tiwari-dev), Full Stack Web Developer From **India**, have pursued Bsc(Computer Science).
 - 🔭 I’m currently working on  **Frontend Development, Backend Development And Self Development**
 - 😐 I have a **love/hate** relationship with **Programming**
