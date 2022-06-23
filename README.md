@@ -45,7 +45,12 @@
 
 
 # 📊 GitHub Stats:
-
+<table>
+  <tr>
+    <td valign="top">![](https://github-readme-stats.vercel.app/api?username=komal-tiwari-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/></td>
+    <td valign="top">![](https://github-readme-streak-stats.herokuapp.com/?user=komal-tiwari-dev&theme=radical&hide_border=false)<br/></td>
+  </tr>
+</table>
 ![](https://github-readme-stats.vercel.app/api?username=komal-tiwari-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=komal-tiwari-dev&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=komal-tiwari-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
