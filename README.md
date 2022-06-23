@@ -6,7 +6,7 @@
 - 😐 I have a **love/hate** relationship with **Programming**
 - 🌱 I’m currently Working with tech **Html, CSS, JavaScript, React, Redux,Heartbeat**
 - 🤔 I’m looking for help with **Data Structures and Algorithms** 😭
-- 💬 Ask me about anything related **Full Stack Web Developent, I am happy to help**
+- 💬 Ask me about anything related **MERN Developent, I am happy to help**
 - 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
 - 💡 Occasionaly I do participate in **Hackathons**
 - 📝 I regularly write articles on [https://medium.com/@atulzv1999](https://medium.com/@atulzv1999)
@@ -45,14 +45,10 @@
 
 
 # 📊 GitHub Stats:
-<table>
-  <tr>
-    <td valign="top">![](https://github-readme-stats.vercel.app/api?username=komal-tiwari-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/></td>
-    <td valign="top">![](https://github-readme-streak-stats.herokuapp.com/?user=komal-tiwari-dev&theme=radical&hide_border=false)<br/></td>
-  </tr>
-</table>
-![](https://github-readme-stats.vercel.app/api?username=komal-tiwari-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=komal-tiwari-dev&theme=radical&hide_border=false)<br/>
+
+
+![](https://github-readme-stats.vercel.app/api?username=komal-tiwari-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=komal-tiwari-dev&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=komal-tiwari-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
