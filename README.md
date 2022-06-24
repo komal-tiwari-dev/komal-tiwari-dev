@@ -1,7 +1,7 @@
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
 
-# Hi  👋 
-- :school: I'm [Komal Tiwari](https://github.com/komal-tiwari-dev), Full Stack Web Developer From **India**, have pursued Bsc(Computer Science).
+# Hi  👋 I'm [Komal Tiwari](https://github.com/komal-tiwari-dev),
+- :school:  Full Stack Web Developer From **India**, have pursued Bsc(Computer Science).
 - 🔭 I’m currently working on  **Frontend Development, Backend Development And Self Development**
 - 😐 I have a **love/hate** relationship with **Programming**
 - 🌱 I’m currently Working with tech **Html, CSS, JavaScript, React, Redux,Heartbeat**
