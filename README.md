@@ -2,17 +2,14 @@
 
 # Hi  👋 I'm [Komal Tiwari](https://github.com/komal-tiwari-dev),
 - :school:  Full Stack Web Developer From **India**, have pursued Bsc(Computer Science).
-- 🔭 I’m currently working on  **Frontend Development, Backend Development And Self Development**
-- 😐 I have a **love/hate** relationship with **Programming**
-- 🌱 I’m currently Working with tech **Html, CSS, JavaScript, React, Redux,Heartbeat**
-- 🤔 I’m looking for help with **Data Structures and Algorithms** 😭
+- 🔭 I’m currently working on  **Frontend Development, Backend Development.**
+- 🌱 I’m currently Working with tech **Html, CSS, JavaScript, React, Redux, NodeJS.**
 - 💬 Ask me about anything related **MERN Developent, I am happy to help**
-- 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
+- 😄 Pronouns: **Coder, Leader**
 - 💡 Occasionaly I do participate in **Hackathons**
 - 📝 I occasionaly write articles on [medium](https://medium.com/@atulzv1999)
 - 👨‍💻 All of my projects are available at [github repo](https://github.com/komal-tiwari-dev?tab=repositories)
 - 📫 How to reach me **atulzv1999@gmail.com**
-- ⚡ Fun fact **The fact is not so funny**
 <!-- - 🌐 Visit my [porfolio website]("Portfolio Link") for complete background and contact. -->
 
 
