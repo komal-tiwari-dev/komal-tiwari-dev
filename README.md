@@ -1,15 +1,15 @@
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
 
 # Hi  👋 I'm [Komal Tiwari](https://github.com/komal-tiwari-dev),
-- :school:  Full Stack Web Developer From **India**, have pursued Bsc(Computer Science).
-- 🔭 I’m currently working on  **Frontend Development, Backend Development.**
-- 🌱 I’m currently Working with tech **Html, CSS, JavaScript, React, Redux, NodeJS.**
-- 💬 Ask me about anything related **MERN Developent, I am happy to help**
-- 😄 Pronouns: **Coder, Leader**
-- 💡 Occasionaly I do participate in **Hackathons**
-- 📝 I occasionaly write articles on [medium](https://medium.com/@atulzv1999)
-- 👨‍💻 All of my projects are available at [github repo](https://github.com/komal-tiwari-dev?tab=repositories)
-- 📫 How to reach me **atulzv1999@gmail.com**
+- Full Stack Web Developer From **India**, have pursued Bsc(Computer Science).
+- I’m currently working on  **Frontend Development, Backend Development and FullStack Developement**
+- I’m currently Working with tech **Html, CSS, JavaScript, React, Redux, NodeJS.**
+- Ask me about anything related **MERN Developent, I am happy to help**
+- Pronouns: **Coder, Leader**
+- Occasionaly I do participate in **Hackathons**
+- I occasionaly write articles on [medium](https://medium.com/@atulzv1999)
+- All of my projects are available at [github repo](https://github.com/komal-tiwari-dev?tab=repositories)
+- How to reach me **atulzv1999@gmail.com**
 <!-- - 🌐 Visit my [porfolio website]("Portfolio Link") for complete background and contact. -->
 
 
@@ -55,7 +55,7 @@
 
 
 
-
+<!-- 
 # 📌 Pinned:
   
 <p align="center">
@@ -66,15 +66,15 @@
 <a href="https://github.com/komal-tiwari-dev/KimayeClone">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=komal-tiwari-dev&repo=KimayeClone&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
-</p>
+</p> -->
   
   
-# ✍️ Random Dev Quote
+<!-- # ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)                                                                                                           <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="300" height="300" />
 
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring some of the repositories! -->
 </div>
