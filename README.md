@@ -3,12 +3,11 @@
 
 # Hi  👋 I'm [Komal Tiwari](https://github.com/komal-tiwari-dev),
 - Full Stack Web Developer From **India**, have pursued Bsc(Computer Science).
-- I’m currently working on  **Frontend Development, Backend Development and FullStack Developement**
+- I love to create things that live on internet.
 - I’m currently Working with tech **Html, CSS, JavaScript, React, Redux, NodeJS.**
 - Ask me about anything related **MERN Developent, I am happy to help**
-- Pronouns: **Coder, Leader**
 - Occasionaly I do participate in **Hackathons**
-- I occasionaly write articles on [medium](https://medium.com/@atulzv1999)
+- I write articles on [medium](https://medium.com/@atulzv1999)
 - All of my projects are available at [github repo](https://github.com/komal-tiwari-dev?tab=repositories)
 - How to reach me **atulzv1999@gmail.com**
 <!-- - 🌐 Visit my [porfolio website]("Portfolio Link") for complete background and contact. -->
